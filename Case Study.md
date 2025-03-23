@@ -1,5 +1,5 @@
 ---
-title: Ørestad City
+title:Ørestad City
 — the home of innovation and dynamics
 description: Lorem ipsum dolor sit amet
 status: Draft
