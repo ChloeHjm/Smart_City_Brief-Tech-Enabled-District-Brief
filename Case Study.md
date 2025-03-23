@@ -1,19 +1,18 @@
 ---
-title:Ørestad City
-— the home of innovation and dynamics
+title: Ørestad Smart District
 description: Lorem ipsum dolor sit amet
-status: Draft
-author: Your Name
-type: 
-city:  
-country_code: USA
-centroid: [40.712778, -74.006111]
+status: Completed
+author: Jingming He
+type: District
+city:  Copenhagen
+country_code: DNK
+centroid: [55.6283, 12.5767]
 year_start: 2012
 year_completed: 2018
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
 featured_alt: New York City Skyline
 featured_credit: Hannah Busing (Unsplash)
-tags: 
+tags: Environment, Mobility, Buildings, Energy, InformationSystems, InnovationSystems
 geography: ./example.geojson
 geography_caption: Optional Caption for the geograhic information.
 ---
