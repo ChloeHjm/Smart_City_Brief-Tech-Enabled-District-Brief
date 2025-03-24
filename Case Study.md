@@ -1,6 +1,6 @@
 ---
 title: Ørestad Smart District
-description: Lorem ipsum dolor sit amet
+description: A high-density urban development that integrates sustainable practices and innovative technologies, featuring smart transportation systems, energy-efficient buildings, and data-driven urban management.
 status: Completed
 author: Jingming He
 type: District
