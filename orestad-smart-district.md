@@ -9,9 +9,9 @@ country_code: DNK
 centroid: [55.6283, 12.5767]
 year_start: 1995
 year_completed: 2025 (anticipated)
-featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
-featured_alt: New York City Skyline
-featured_credit: Hannah Busing (Unsplash)
+featured_image: ./Ørestad_Street_Hall.jpg
+featured_alt: Ørestad Street Hall
+featured_credit: Adam Mørk (visitcopenhagen)
 tags: Environment, Mobility, Buildings, Energy, InformationSystems, InnovationSystems
 geography: /map.geojson
 geography_caption: Map highlighting the Ørestad district within Copenhagen
@@ -31,7 +31,7 @@ tags: Environment, Mobility, Buildings, Energy, InformationSystems, HealthEducat
 
 <!-- About 100 to 150 word summary of the case study. -->
 
-Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument. Romanesque acclimates investiture. Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. 
+Ørestad is a purpose-built smart district in Copenhagen, Denmark, developed since the mid-1990s as part of the city’s long-term strategy for sustainable urban growth. Located on the island of Amager, the district spans about 3.1 square kilometers and is planned around high-density development, contrasting with the surrounding open commons. Ørestad includes four main zones and combines compact housing, smart mobility, and modern architecture with digital infrastructure. While detailed features like automated metro systems and innovation hubs define its identity, the district more broadly reflects Copenhagen’s vision to accommodate population growth, attract investment, and support major infrastructure. Though widely recognized as a successful model of smart city planning, Ørestad has also raised concerns about social inclusivity and long-term affordability.
 
 
 ## Goals and Aspirations
