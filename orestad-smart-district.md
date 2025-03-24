@@ -7,7 +7,7 @@ type: District
 city:  Copenhagen
 country_code: DNK
 centroid: [55.6283, 12.5767]
-year_start: 1995
+year_start: 1992 (plan start) 1995 (project start)
 year_completed: 2025 (anticipated)
 featured_image: ./Ørestad_Street_Hall.jpg
 featured_alt: Ørestad Street Hall
@@ -65,12 +65,15 @@ tags: Environment, Mobility, Buildings, Energy, InformationSystems, HealthEducat
 <!--  Who initiated the project? Who is leading the project forward? Who else has a say in how it unfolds? Who is directly affected but marginalized? Identify 3-5 key stakeholder organizations or groups. Identify 3-5 key individuals. These are people who are associated with the project as leaders, supporters, critics, or regulators. They are likely to be members of the stakeholder groups identified above. These are people you should try to contact for one or more interviews.-->
 
 + Organizations or Groups
-  + **​Ørestad Development Corporation**.  Established in 1993 following the Ørestad Act of 1992, this company was co-owned by Copenhagen Municipality (55%) and the Danish Ministry of Finance (45%). It was responsible for the planning and development of the Ørestad area and played a significant role in the construction of parts of the Copenhagen Metro. The corporation was dissolved in 2007.[Ørestad Development Corporation](https://en.wikipedia.org/wiki/%C3%98restad_Development_Corporation)
-  + **Copenhagen Municipality**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
-  + **Stakeholder 3**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [Organization Name](https://www.markdownguide.org/basic-syntax/)
+  + **​Ørestad Development Corporation**. (including **Copenhagen Municipality** and **Danish Ministry of Finance**) Established in 1993 following the Ørestad Act of 1992, this company was co-owned by Copenhagen Municipality (55%) and the Danish Ministry of Finance (45%). It was responsible for the planning and development of the Ørestad area and played a significant role in the construction of parts of the Copenhagen Metro. The corporation was dissolved in 2007. [Ørestad Development Corporation](https://en.wikipedia.org/wiki/%C3%98restad_Development_Corporation) [Copenhagen Municipality, Danish Ministry of Finance](https://www.brookings.edu/research/copenhagen-port-development/)
+  + **OICC (Ørestad Innovation City Copenhagen)**.  A multi-stakeholder initiative including businesses, universities, and public institutions promoting innovation, sustainability, and experimentation with smart city technologies.
+ [OICC](https://oicc.dk)
+  + **By & Havn**.  Lores mumps dolor sit mate, nominal id xiv. Dec ore offend it man re, est no dolor es explicate, re dicta elect ram demo critic duo. Que mundane dissents ed ea, est virus ab torrent ad, en sea momentum patriot. Erato dolor em omit tam quo no, per leg ere argument um re. Romanesque acclimates investiture. [By & Havn](https://byoghavn.dk/forretningsstrategi/)
 
 + Individuals
-  + klk
+  + **Anne Skovbro**.  Current CEO of By & Havn, the agency overseeing Ørestad's development. A leading voice on sustainable urbanism and public–private urban innovation in Copenhagen. [Anne Skovbro](https://byoghavn.dk/wp-content/uploads/2019/04/ENG-021224_Byens-Scene-Judges-assessment.pdf), [By & Havn](https://en.wikipedia.org/wiki/By_%26_Havn)
+  + **Pia Gjellerup**.  Chair of By & Havn’s board; a political figure with oversight in strategic development planning. [Pia Gjellerup](https://en.wikipedia.org/wiki/Pia_Gjellerup),[By & Havn](https://en.wikipedia.org/wiki/By_%26_Havn)
+  + **Stan Majoor**.  Researcher and urban planner who critically assessed Ørestad’s governance model. While not a direct stakeholder, his insights frame the conversation around transparency and citizen participation. [Stan Majoor](https://www.tandfonline.com/doi/abs/10.1080/09654313.2015.1014780)
 
 
 ## Technology Interventions
