@@ -7,8 +7,8 @@ type: District
 city:  Copenhagen
 country_code: DNK
 centroid: [55.6283, 12.5767]
-year_start: 2012
-year_completed: 2018
+year_start: 1995
+year_completed: 2025 (anticipated)
 featured_image: ./hannah-busing-0V6DmTuJaIk-unsplash.jpeg
 featured_alt: New York City Skyline
 featured_credit: Hannah Busing (Unsplash)
