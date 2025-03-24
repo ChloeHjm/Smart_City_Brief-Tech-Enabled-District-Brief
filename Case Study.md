@@ -14,7 +14,8 @@ featured_alt: New York City Skyline
 featured_credit: Hannah Busing (Unsplash)
 tags: Environment, Mobility, Buildings, Energy, InformationSystems, InnovationSystems
 geography: /map.geojson
-geography_caption: Optional Caption for the geograhic information.
+geography_caption: Map highlighting the Ørestad district within Copenhagen
+
 ---
 <!--
 Allowed values:
